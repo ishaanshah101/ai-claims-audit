@@ -1,0 +1,173 @@
+{
+  "n_filings_in_corpus": 59,
+  "n_filings_with_a_capability_claim": 19,
+  "n_filings_with_a_quantified_claim": 2,
+  "n_filings_with_a_checkable_claim": 1,
+  "sentences_per_filing": {
+    "min": 1,
+    "median": 7,
+    "max": 65,
+    "mean": 10.135593220338983
+  },
+  "n_filings_sampled": 60,
+  "n_filings_yielding_no_ai_sentence": 1,
+  "n_filings_dropped_entirely_by_term_correction": 0,
+  "blinding_leak_narrow_n": 7,
+  "blinding_leak_narrow_rate": 0.011705685618729096,
+  "blinding_leak_narrow": [
+    {
+      "rid": 14,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "tokens": [
+        "COGNIZANT",
+        "TECHNOLOGY"
+      ]
+    },
+    {
+      "rid": 24,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "tokens": [
+        "COGNIZANT"
+      ]
+    },
+    {
+      "rid": 28,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "tokens": [
+        "COGNIZANT"
+      ]
+    },
+    {
+      "rid": 47,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "tokens": [
+        "COGNIZANT",
+        "TECHNOLOGY"
+      ]
+    },
+    {
+      "rid": 60,
+      "name": "Rimini Street, Inc.",
+      "tokens": [
+        "Rimini"
+      ]
+    },
+    {
+      "rid": 303,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "tokens": [
+        "COGNIZANT"
+      ]
+    },
+    {
+      "rid": 592,
+      "name": "Rimini Street, Inc.",
+      "tokens": [
+        "Rimini"
+      ]
+    }
+  ],
+  "blinding_leak_n": 37,
+  "blinding_leak_rate": 0.061872909698996656,
+  "blinding_leak_examples": [
+    {
+      "rid": 14,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP  (CTSH)  (CIK 0001058290)",
+      "tokens_present": [
+        "COGNIZANT",
+        "TECHNOLOGY"
+      ]
+    },
+    {
+      "rid": 17,
+      "name": "Elevance Health, Inc.  (ELV)  (CIK 0001156039)",
+      "tokens_present": [
+        "Health"
+      ]
+    },
+    {
+      "rid": 19,
+      "name": "Structure Therapeutics Inc.  (GPCR)  (CIK 0001888886)",
+      "tokens_present": [
+        "Structure"
+      ]
+    },
+    {
+      "rid": 24,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP  (CTSH)  (CIK 0001058290)",
+      "tokens_present": [
+        "COGNIZANT"
+      ]
+    },
+    {
+      "rid": 28,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP  (CTSH)  (CIK 0001058290)",
+      "tokens_present": [
+        "COGNIZANT"
+      ]
+    },
+    {
+      "rid": 47,
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP  (CTSH)  (CIK 0001058290)",
+      "tokens_present": [
+        "COGNIZANT",
+        "TECHNOLOGY"
+      ]
+    },
+    {
+      "rid": 53,
+      "name": "JONES FINANCIAL COMPANIES LLLP  (CIK 0000815917)",
+      "tokens_present": [
+        "FINANCIAL"
+      ]
+    },
+    {
+      "rid": 60,
+      "name": "Rimini Street, Inc.  (RMNI)  (CIK 0001635282)",
+      "tokens_present": [
+        "Rimini"
+      ]
+    }
+  ],
+  "blinding_leak_rids": [
+    14,
+    17,
+    19,
+    24,
+    28,
+    47,
+    53,
+    60,
+    65,
+    84,
+    90,
+    95,
+    113,
+    114,
+    125,
+    143,
+    198,
+    207,
+    240,
+    301,
+    303,
+    315,
+    350,
+    374,
+    391,
+    401,
+    411,
+    418,
+    434,
+    486,
+    536,
+    543,
+    558,
+    576,
+    592,
+    598,
+    616
+  ],
+  "agreement_on_leaked": 0.8648648648648649,
+  "agreement_on_clean": 0.9358288770053476
+}

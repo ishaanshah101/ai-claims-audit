@@ -1,0 +1,153 @@
+{
+  "reviewer_self_consistency": {
+    "n_pairs": 8,
+    "n_consistent": 8,
+    "disagreed": []
+  },
+  "dropped_units": [],
+  "c1_survival": {
+    "capability": {
+      "n_reviewed": 30,
+      "n_survived": 26,
+      "survival_rate": 0.8666666666666667
+    },
+    "risk": {
+      "n_reviewed": 30,
+      "n_survived": 29,
+      "survival_rate": 0.9666666666666667
+    },
+    "market": {
+      "n_reviewed": 12,
+      "n_survived": 9,
+      "survival_rate": 0.75
+    },
+    "governance": {
+      "n_reviewed": 5,
+      "n_survived": 5,
+      "survival_rate": 1.0
+    },
+    "other": {
+      "n_reviewed": 20,
+      "n_survived": 18,
+      "survival_rate": 0.9
+    }
+  },
+  "c1_reclassification_flow": {
+    "capability": {
+      "other": 4
+    },
+    "risk": {
+      "market": 1
+    },
+    "market": {
+      "risk": 1,
+      "other": 2
+    },
+    "governance": {},
+    "other": {
+      "risk": 1,
+      "market": 1
+    }
+  },
+  "c1_disputed_n": 20,
+  "c1_disputed_resolution": {
+    "capability": 4,
+    "market": 5,
+    "other": 8,
+    "governance": 2,
+    "risk": 1
+  },
+  "c1_disputed_inside_pair": 19,
+  "c2_screened": 74,
+  "c2_true_quantified_rids": [
+    48,
+    86
+  ],
+  "passes_quantified_rids": [
+    48,
+    86
+  ],
+  "passes_quantified_both_rids": [
+    48,
+    86
+  ],
+  "quantified_missed_by_passes": [],
+  "quantified_overcalled_by_passes": [],
+  "term_false_positive_rids": [
+    35,
+    78,
+    112,
+    121,
+    167,
+    180,
+    208,
+    210,
+    246,
+    250,
+    308,
+    313,
+    314,
+    320,
+    331,
+    370,
+    377,
+    381,
+    427,
+    532,
+    545,
+    603,
+    605,
+    606,
+    622
+  ],
+  "term_false_positive_only_ml": [
+    78,
+    112,
+    121,
+    167,
+    180,
+    208,
+    210,
+    250,
+    308,
+    314,
+    320,
+    331,
+    370,
+    377,
+    427,
+    532,
+    603,
+    605,
+    606,
+    622
+  ],
+  "term_false_positive_name_or_stray": [
+    35,
+    246,
+    313,
+    381,
+    545
+  ],
+  "c2_reviewer_non_ai_rids": [
+    35,
+    78,
+    112,
+    121,
+    167,
+    208,
+    210,
+    308,
+    313,
+    314,
+    320,
+    370,
+    377,
+    381,
+    427,
+    532,
+    545,
+    603,
+    606
+  ]
+}

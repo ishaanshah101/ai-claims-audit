@@ -1,0 +1,80 @@
+{
+  "n_sentences": 623,
+  "n_judgements": 1246,
+  "observed_agreement": 0.9341894060995185,
+  "n_agreed": 582,
+  "n_disputed": 41,
+  "krippendorff_alpha_nominal": 0.8877833445817459,
+  "expected_disagreement": 0.5864601262191624,
+  "marginal_judgements": {
+    "other": 220,
+    "risk": 746,
+    "capability": 169,
+    "market": 95,
+    "governance": 16
+  },
+  "positive_specific_agreement": {
+    "capability": 0.8875739644970414,
+    "risk": 0.9785522788203753,
+    "market": 0.8210526315789474,
+    "governance": 0.875,
+    "other": 0.8727272727272727
+  },
+  "disagreement_pairs": {
+    "capability|other": 15,
+    "market|other": 7,
+    "market|risk": 7,
+    "other|risk": 6,
+    "capability|market": 3,
+    "governance|risk": 2,
+    "capability|risk": 1
+  },
+  "part_b_agreement": {
+    "quantified": {
+      "n": 75,
+      "both_true": 2,
+      "both_false": 73,
+      "disagreed": 0,
+      "observed_agreement": 1.0,
+      "judgements_true": 4,
+      "positive_specific_agreement": 1.0
+    },
+    "metric_named": {
+      "n": 75,
+      "both_true": 5,
+      "both_false": 63,
+      "disagreed": 7,
+      "observed_agreement": 0.9066666666666666,
+      "judgements_true": 17,
+      "positive_specific_agreement": 0.5882352941176471
+    },
+    "evaluation_described": {
+      "n": 75,
+      "both_true": 1,
+      "both_false": 73,
+      "disagreed": 1,
+      "observed_agreement": 0.9866666666666667,
+      "judgements_true": 3,
+      "positive_specific_agreement": 0.6666666666666666
+    },
+    "baseline_given": {
+      "n": 75,
+      "both_true": 0,
+      "both_false": 75,
+      "disagreed": 0,
+      "observed_agreement": 1.0,
+      "judgements_true": 0,
+      "positive_specific_agreement": NaN
+    },
+    "uncertainty_given": {
+      "n": 75,
+      "both_true": 0,
+      "both_false": 75,
+      "disagreed": 0,
+      "observed_agreement": 1.0,
+      "judgements_true": 0,
+      "positive_specific_agreement": NaN
+    }
+  },
+  "n_both_capability": 75
+}

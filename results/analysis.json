@@ -1,0 +1,339 @@
+{
+  "n_extracted": 623,
+  "n_term_false_positive": 25,
+  "n_corpus": 598,
+  "term_false_positive_rate": 0.04012841091492777,
+  "n_agreed": 557,
+  "n_disputed": 41,
+  "agreement_on_corpus": 0.931438127090301,
+  "agreement_on_corrected_corpus": {
+    "n": 598,
+    "n_judgements": 1196,
+    "observed_agreement": 0.931438127090301,
+    "expected_disagreement": 0.564754201592477,
+    "krippendorff_alpha_nominal": 0.8785987377935919
+  },
+  "composition_agreed": {
+    "capability": {
+      "n": 75,
+      "denominator": 557,
+      "rate": 0.13464991023339318,
+      "wilson_lo": 0.10879118649236479,
+      "wilson_hi": 0.16551353260629692,
+      "boot_rate": 0.13464991023339318,
+      "boot_lo": 0.08274142803818055,
+      "boot_hi": 0.1816970938897168
+    },
+    "risk": {
+      "n": 365,
+      "denominator": 557,
+      "rate": 0.6552962298025135,
+      "wilson_lo": 0.6148839946123807,
+      "wilson_hi": 0.6935810756478933,
+      "boot_rate": 0.6552962298025135,
+      "boot_lo": 0.5720334623700915,
+      "boot_hi": 0.7463423471191234
+    },
+    "market": {
+      "n": 39,
+      "denominator": 557,
+      "rate": 0.07001795332136446,
+      "wilson_lo": 0.05163988843122171,
+      "wilson_hi": 0.09428630431634324,
+      "boot_rate": 0.07001795332136446,
+      "boot_lo": 0.03868420963174731,
+      "boot_hi": 0.10192125003620353
+    },
+    "governance": {
+      "n": 7,
+      "denominator": 557,
+      "rate": 0.012567324955116697,
+      "wilson_lo": 0.006100662485732513,
+      "wilson_hi": 0.025711284616413147,
+      "boot_rate": 0.012567324955116697,
+      "boot_lo": 0.0,
+      "boot_hi": 0.03070253203931814
+    },
+    "other": {
+      "n": 71,
+      "denominator": 557,
+      "rate": 0.12746858168761221,
+      "wilson_lo": 0.10230181952087691,
+      "wilson_hi": 0.15773861887210738,
+      "boot_rate": 0.12746858168761221,
+      "boot_lo": 0.0924209673317721,
+      "boot_hi": 0.15862281494075764
+    }
+  },
+  "composition_bounds_on_full_corpus": {
+    "capability": {
+      "lower_rate": 0.1254180602006689,
+      "upper_rate": 0.15719063545150502,
+      "n_disputed_could_be": 19
+    },
+    "risk": {
+      "lower_rate": 0.6103678929765887,
+      "upper_rate": 0.637123745819398,
+      "n_disputed_could_be": 16
+    },
+    "market": {
+      "lower_rate": 0.06521739130434782,
+      "upper_rate": 0.09364548494983277,
+      "n_disputed_could_be": 17
+    },
+    "governance": {
+      "lower_rate": 0.011705685618729096,
+      "upper_rate": 0.015050167224080268,
+      "n_disputed_could_be": 2
+    },
+    "other": {
+      "lower_rate": 0.11872909698996656,
+      "upper_rate": 0.16555183946488294,
+      "n_disputed_could_be": 28
+    }
+  },
+  "transfer_matrix": {
+    "capability": {
+      "capability": 0.8666666666666667,
+      "risk": 0.0,
+      "market": 0.0,
+      "governance": 0.0,
+      "other": 0.13333333333333333
+    },
+    "risk": {
+      "capability": 0.0,
+      "risk": 0.9666666666666667,
+      "market": 0.03333333333333333,
+      "governance": 0.0,
+      "other": 0.0
+    },
+    "market": {
+      "capability": 0.0,
+      "risk": 0.08333333333333333,
+      "market": 0.75,
+      "governance": 0.0,
+      "other": 0.16666666666666666
+    },
+    "governance": {
+      "capability": 0.0,
+      "risk": 0.0,
+      "market": 0.0,
+      "governance": 1.0,
+      "other": 0.0
+    },
+    "other": {
+      "capability": 0.0,
+      "risk": 0.05,
+      "market": 0.05,
+      "governance": 0.0,
+      "other": 0.9
+    }
+  },
+  "n_calibration_units_agreed": 97,
+  "n_calibration_units_disputed": 20,
+  "disputed_resolution_fractions": {
+    "capability": 0.2,
+    "risk": 0.05,
+    "market": 0.25,
+    "governance": 0.1,
+    "other": 0.4
+  },
+  "composition_calibrated": {
+    "capability": {
+      "count": 73.2,
+      "rate": 0.12240802675585284,
+      "boot_lo": 0.07680049713193118,
+      "boot_hi": 0.16558026192426986
+    },
+    "risk": {
+      "count": 361.68333333333334,
+      "rate": 0.6048216276477146,
+      "boot_lo": 0.5187574478135394,
+      "boot_hi": 0.6994102999965831
+    },
+    "market": {
+      "count": 55.21666666666666,
+      "rate": 0.09233556298773689,
+      "boot_lo": 0.04726274148203554,
+      "boot_hi": 0.14896058740024554
+    },
+    "governance": {
+      "count": 11.100000000000001,
+      "rate": 0.018561872909699,
+      "boot_lo": 0.0037223784273394604,
+      "boot_hi": 0.03746507603495737
+    },
+    "other": {
+      "count": 96.80000000000001,
+      "rate": 0.16187290969899668,
+      "boot_lo": 0.11520157952625551,
+      "boot_hi": 0.20972231894150414
+    }
+  },
+  "capability_agreed_n": 75,
+  "capability_calibrated_n": 73.2,
+  "verifiability": {
+    "denominator_agreed": 75,
+    "denominator_calibrated": 73.2,
+    "quantified": {
+      "n": 2,
+      "rids": [
+        48,
+        86
+      ],
+      "source": "whole-corpus numeral screen + blinded review",
+      "rate_agreed": 0.02666666666666667,
+      "wilson": [
+        0.0073436890061313945,
+        0.09211488187759151
+      ],
+      "rate_calibrated": 0.0273224043715847
+    },
+    "metric_named": {
+      "n_both": 5,
+      "n_either": 12,
+      "rids_both": [
+        48,
+        83,
+        86,
+        257,
+        608
+      ],
+      "source": "both passes agreed",
+      "rate_agreed": 0.06666666666666667,
+      "wilson": [
+        0.028810062899493713,
+        0.14675060058560468
+      ]
+    },
+    "evaluation_described": {
+      "n": 1,
+      "rids": [
+        48
+      ],
+      "source": "blinded review of every numeral candidate",
+      "rate_agreed": 0.013333333333333334
+    },
+    "baseline_given": {
+      "n": 0,
+      "rate_agreed": 0.0,
+      "wilson_hi": 0.04872384248280587
+    },
+    "uncertainty_given": {
+      "n": 0,
+      "rate_agreed": 0.0,
+      "wilson_hi": 0.04872384248280587
+    },
+    "checkable": {
+      "n": 1,
+      "rids": [
+        48
+      ],
+      "rate_agreed": 0.013333333333333334,
+      "wilson": [
+        0.002357551139048661,
+        0.07173365554421572
+      ],
+      "rate_calibrated": 0.01366120218579235,
+      "rate_of_corpus": 0.0016722408026755853,
+      "wilson_of_corpus": [
+        0.00029525257890440203,
+        0.00941072353005366
+      ]
+    }
+  },
+  "verifiability_score_distribution": {
+    "0": 70,
+    "1": 3,
+    "2": 1,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  },
+  "sector_capability": {
+    "technology": {
+      "n_filings": 15,
+      "n_sentences": 317,
+      "n_capability": 49,
+      "rate": 0.15457413249211358,
+      "boot_lo": 0.0878370138431114,
+      "boot_hi": 0.2125006991051454,
+      "wilson": [
+        0.11893862137630665,
+        0.1984812631829684
+      ]
+    },
+    "healthcare": {
+      "n_filings": 15,
+      "n_sentences": 97,
+      "n_capability": 13,
+      "rate": 0.13402061855670103,
+      "boot_lo": 0.03125,
+      "boot_hi": 0.26282894736842094,
+      "wilson": [
+        0.08002456680409929,
+        0.21589993854994483
+      ]
+    },
+    "finance_realestate": {
+      "n_filings": 15,
+      "n_sentences": 101,
+      "n_capability": 5,
+      "rate": 0.04950495049504951,
+      "boot_lo": 0.0,
+      "boot_hi": 0.15294117647058825,
+      "wilson": [
+        0.02132850988800644,
+        0.11069425072968567
+      ]
+    },
+    "other": {
+      "n_filings": 14,
+      "n_sentences": 83,
+      "n_capability": 8,
+      "rate": 0.0963855421686747,
+      "boot_lo": 0.0,
+      "boot_hi": 0.1875,
+      "wilson": [
+        0.049652740358921935,
+        0.1788263650147196
+      ]
+    }
+  },
+  "sector_tech_vs_rest": {
+    "difference": 0.06204744210065451,
+    "boot_lo": -0.030517700799390937,
+    "boot_hi": 0.14435899220677575
+  },
+  "predictions": {
+    "1_risk_exceeds_capability": {
+      "statement": "Risk-factor mentions will outnumber capability claims.",
+      "risk_rate": 0.6048216276477146,
+      "capability_rate": 0.12240802675585284,
+      "held": true
+    },
+    "2_under_10pct_quantified": {
+      "statement": "Fewer than 10 percent of capability claims will be quantified.",
+      "value": 0.02666666666666667,
+      "held": true
+    },
+    "3_under_2pct_checkable": {
+      "statement": "Fewer than 2 percent of capability claims will be checkable.",
+      "value": 0.013333333333333334,
+      "held": true
+    },
+    "4_tech_highest_capability": {
+      "statement": "Technology registrants will make capability claims at a higher rate than the other three strata.",
+      "tech_rate": 0.15457413249211358,
+      "others": {
+        "healthcare": 0.13402061855670103,
+        "finance_realestate": 0.04950495049504951,
+        "other": 0.0963855421686747
+      },
+      "difference_vs_rest": 0.06204744210065451,
+      "boot_lo": -0.030517700799390937,
+      "boot_hi": 0.14435899220677575,
+      "held": true
+    }
+  }
+}
