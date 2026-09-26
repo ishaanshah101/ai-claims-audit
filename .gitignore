@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw 10-K documents, about 229 MB, are not committed. They are reproducible
+# byte for byte from EDGAR by running src/fetch_and_extract.py, which reads the
+# accession numbers in data/sample_filings.json. The extracted corpus that every
+# result depends on is committed as data/sentences.json.
+data/filings/
