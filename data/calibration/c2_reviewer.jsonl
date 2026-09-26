@@ -1,0 +1,74 @@
+{"did":"B001","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B002","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B003","ai_reference":true,"quantified":false,"note":"customer-facing ML claim, no figure; numerals are page/year"}
+{"did":"B004","ai_reference":true,"quantified":false,"note":"regulation; numeral is a statute year"}
+{"did":"B005","ai_reference":true,"quantified":false,"note":"transaction cost and purchase price, not a performance figure"}
+{"did":"B006","ai_reference":true,"quantified":false,"note":"fiscal year only"}
+{"did":"B007","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B008","ai_reference":true,"quantified":false,"note":"ARR range for client contracts; revenue, not AI performance; borderline"}
+{"did":"B009","ai_reference":true,"quantified":false,"note":"page header"}
+{"did":"B010","ai_reference":false,"quantified":false,"note":"exhibit index, matched on ML in an entity name"}
+{"did":"B011","ai_reference":true,"quantified":false,"note":"announcement date"}
+{"did":"B012","ai_reference":true,"quantified":false,"note":"legislative dates"}
+{"did":"B013","ai_reference":true,"quantified":false,"note":"directive numbers"}
+{"did":"B014","ai_reference":false,"quantified":false,"note":"loan schedule, AI in an entity name"}
+{"did":"B015","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B016","ai_reference":true,"quantified":false,"note":"fiscal year"}
+{"did":"B017","ai_reference":true,"quantified":false,"note":"fiscal years; demand driver, no AI performance figure"}
+{"did":"B018","ai_reference":false,"quantified":false,"note":"note cross-reference, matched on a stray 'ai' token"}
+{"did":"B019","ai_reference":true,"quantified":false,"note":"effective dates"}
+{"did":"B020","ai_reference":true,"quantified":false,"note":"executive order date"}
+{"did":"B021","ai_reference":true,"quantified":false,"note":"$6.1m purchase price, not a performance figure"}
+{"did":"B022","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B023","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B024","ai_reference":true,"quantified":false,"note":"revenue commentary, no figure in sentence"}
+{"did":"B025","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B026","ai_reference":true,"quantified":false,"note":"regulatory dates"}
+{"did":"B027","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B028","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B029","ai_reference":true,"quantified":false,"note":"launch date"}
+{"did":"B030","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B031","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B032","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B033","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B034","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B035","ai_reference":true,"quantified":false,"note":"fiscal year"}
+{"did":"B036","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B037","ai_reference":true,"quantified":false,"note":"fiscal year"}
+{"did":"B038","ai_reference":true,"quantified":true,"metric_named":true,"evaluation_described":false,"baseline_given":false,"uncertainty_given":false,"note":"23% faster case resolution; no population, period, comparator or interval"}
+{"did":"B039","ai_reference":true,"quantified":false,"note":"page header"}
+{"did":"B040","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B041","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B042","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B043","ai_reference":true,"quantified":false,"note":"fiscal year"}
+{"did":"B044","ai_reference":false,"quantified":false,"note":"microbiology table, matched on mL"}
+{"did":"B045","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B046","ai_reference":true,"quantified":false,"note":"11,000 organizations is a customer count, not a performance figure"}
+{"did":"B047","ai_reference":true,"quantified":false,"note":"year"}
+{"did":"B048","ai_reference":true,"quantified":true,"metric_named":true,"evaluation_described":true,"baseline_given":false,"uncertainty_given":false,"note":"180m automated actions per month in the IT environments we manage; volume not quality; the quality claim itself is unquantified"}
+{"did":"B049","ai_reference":true,"quantified":false,"note":"year"}
+{"did":"B050","ai_reference":true,"quantified":false,"note":"page header"}
+{"did":"B051","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B052","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B053","ai_reference":true,"quantified":false,"note":"legislative dates"}
+{"did":"B054","ai_reference":true,"quantified":false,"note":"listing rule number and date"}
+{"did":"B055","ai_reference":true,"quantified":false,"note":"launch year"}
+{"did":"B056","ai_reference":false,"quantified":false,"note":"AI in a portfolio company name; disposal gain"}
+{"did":"B057","ai_reference":false,"quantified":false,"note":"microbiology table, matched on mL"}
+{"did":"B058","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B059","ai_reference":true,"quantified":false,"note":"$131m consideration, not a performance figure"}
+{"did":"B060","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B061","ai_reference":false,"quantified":false,"note":"loan schedule, AI in an entity name"}
+{"did":"B062","ai_reference":true,"quantified":false,"note":"fiscal year"}
+{"did":"B063","ai_reference":false,"quantified":false,"note":"pharmacology, matched on mL"}
+{"did":"B064","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B065","ai_reference":false,"quantified":false,"note":"microbiology, matched on mL"}
+{"did":"B066","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B067","ai_reference":true,"quantified":false,"note":"executive order date and page number"}
+{"did":"B068","ai_reference":true,"quantified":false,"note":"launch date"}
+{"did":"B069","ai_reference":true,"quantified":false,"note":"page header"}
+{"did":"B070","ai_reference":true,"quantified":false,"note":"page number"}
+{"did":"B071","ai_reference":true,"quantified":false,"note":"page numbers"}
+{"did":"B072","ai_reference":false,"quantified":false,"note":"microbiology, matched on mL"}
+{"did":"B073","ai_reference":true,"quantified":false,"note":"training headcount, not an AI performance figure"}
+{"did":"B074","ai_reference":true,"quantified":false,"note":"fiscal years"}

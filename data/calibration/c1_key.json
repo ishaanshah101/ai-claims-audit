@@ -1,0 +1,812 @@
+[
+ {
+  "did": "A001",
+  "rid": 89,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A002",
+  "rid": 118,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A003",
+  "rid": 558,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A004",
+  "rid": 38,
+  "rep": 0,
+  "prior": [
+   "market",
+   "other"
+  ]
+ },
+ {
+  "did": "A005",
+  "rid": 15,
+  "rep": 1,
+  "prior": "other"
+ },
+ {
+  "did": "A006",
+  "rid": 545,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A007",
+  "rid": 442,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A008",
+  "rid": 392,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A009",
+  "rid": 138,
+  "rep": 1,
+  "prior": "risk"
+ },
+ {
+  "did": "A010",
+  "rid": 73,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A011",
+  "rid": 527,
+  "rep": 0,
+  "prior": [
+   "market",
+   "risk"
+  ]
+ },
+ {
+  "did": "A012",
+  "rid": 361,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A013",
+  "rid": 466,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A014",
+  "rid": 406,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A015",
+  "rid": 68,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A016",
+  "rid": 484,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A017",
+  "rid": 123,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A018",
+  "rid": 534,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A019",
+  "rid": 141,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A020",
+  "rid": 297,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A021",
+  "rid": 541,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A022",
+  "rid": 120,
+  "rep": 0,
+  "prior": [
+   "governance",
+   "risk"
+  ]
+ },
+ {
+  "did": "A023",
+  "rid": 82,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A024",
+  "rid": 424,
+  "rep": 0,
+  "prior": "governance"
+ },
+ {
+  "did": "A025",
+  "rid": 600,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A026",
+  "rid": 532,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A027",
+  "rid": 336,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A028",
+  "rid": 453,
+  "rep": 0,
+  "prior": "governance"
+ },
+ {
+  "did": "A029",
+  "rid": 194,
+  "rep": 0,
+  "prior": [
+   "other",
+   "risk"
+  ]
+ },
+ {
+  "did": "A030",
+  "rid": 403,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A031",
+  "rid": 499,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A032",
+  "rid": 145,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A033",
+  "rid": 308,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A034",
+  "rid": 510,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A035",
+  "rid": 162,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A036",
+  "rid": 149,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A037",
+  "rid": 236,
+  "rep": 0,
+  "prior": "governance"
+ },
+ {
+  "did": "A038",
+  "rid": 520,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A039",
+  "rid": 433,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A040",
+  "rid": 122,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A041",
+  "rid": 436,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A042",
+  "rid": 240,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A043",
+  "rid": 257,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A044",
+  "rid": 43,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A045",
+  "rid": 110,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A046",
+  "rid": 446,
+  "rep": 0,
+  "prior": [
+   "governance",
+   "risk"
+  ]
+ },
+ {
+  "did": "A047",
+  "rid": 86,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A048",
+  "rid": 77,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A049",
+  "rid": 235,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A050",
+  "rid": 105,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A051",
+  "rid": 71,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A052",
+  "rid": 22,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A053",
+  "rid": 23,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A054",
+  "rid": 407,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A055",
+  "rid": 52,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A056",
+  "rid": 579,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A057",
+  "rid": 32,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A058",
+  "rid": 9,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A059",
+  "rid": 309,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A060",
+  "rid": 432,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A061",
+  "rid": 106,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A062",
+  "rid": 231,
+  "rep": 0,
+  "prior": "governance"
+ },
+ {
+  "did": "A063",
+  "rid": 309,
+  "rep": 1,
+  "prior": "risk"
+ },
+ {
+  "did": "A064",
+  "rid": 237,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A065",
+  "rid": 90,
+  "rep": 1,
+  "prior": "risk"
+ },
+ {
+  "did": "A066",
+  "rid": 80,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A067",
+  "rid": 37,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A068",
+  "rid": 426,
+  "rep": 1,
+  "prior": "capability"
+ },
+ {
+  "did": "A069",
+  "rid": 43,
+  "rep": 1,
+  "prior": "other"
+ },
+ {
+  "did": "A070",
+  "rid": 11,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A071",
+  "rid": 429,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A072",
+  "rid": 70,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A073",
+  "rid": 266,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A074",
+  "rid": 570,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A075",
+  "rid": 382,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A076",
+  "rid": 261,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A077",
+  "rid": 366,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A078",
+  "rid": 472,
+  "rep": 0,
+  "prior": [
+   "market",
+   "risk"
+  ]
+ },
+ {
+  "did": "A079",
+  "rid": 516,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A080",
+  "rid": 392,
+  "rep": 1,
+  "prior": "capability"
+ },
+ {
+  "did": "A081",
+  "rid": 453,
+  "rep": 1,
+  "prior": "governance"
+ },
+ {
+  "did": "A082",
+  "rid": 178,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A083",
+  "rid": 330,
+  "rep": 0,
+  "prior": "governance"
+ },
+ {
+  "did": "A084",
+  "rid": 222,
+  "rep": 0,
+  "prior": [
+   "market",
+   "other"
+  ]
+ },
+ {
+  "did": "A085",
+  "rid": 213,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A086",
+  "rid": 230,
+  "rep": 0,
+  "prior": [
+   "other",
+   "risk"
+  ]
+ },
+ {
+  "did": "A087",
+  "rid": 238,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A088",
+  "rid": 397,
+  "rep": 0,
+  "prior": [
+   "other",
+   "risk"
+  ]
+ },
+ {
+  "did": "A089",
+  "rid": 29,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A090",
+  "rid": 318,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A091",
+  "rid": 24,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A092",
+  "rid": 358,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A093",
+  "rid": 329,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A094",
+  "rid": 465,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A095",
+  "rid": 394,
+  "rep": 0,
+  "prior": [
+   "other",
+   "risk"
+  ]
+ },
+ {
+  "did": "A096",
+  "rid": 219,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A097",
+  "rid": 489,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A098",
+  "rid": 138,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A099",
+  "rid": 426,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A100",
+  "rid": 569,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A101",
+  "rid": 199,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A102",
+  "rid": 595,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A103",
+  "rid": 421,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A104",
+  "rid": 363,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A105",
+  "rid": 156,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A106",
+  "rid": 485,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A107",
+  "rid": 622,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A108",
+  "rid": 66,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A109",
+  "rid": 464,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A110",
+  "rid": 369,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "other"
+  ]
+ },
+ {
+  "did": "A111",
+  "rid": 15,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A112",
+  "rid": 174,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A113",
+  "rid": 19,
+  "rep": 0,
+  "prior": [
+   "capability",
+   "market"
+  ]
+ },
+ {
+  "did": "A114",
+  "rid": 233,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A115",
+  "rid": 90,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A116",
+  "rid": 346,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A117",
+  "rid": 319,
+  "rep": 0,
+  "prior": "market"
+ },
+ {
+  "did": "A118",
+  "rid": 374,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A119",
+  "rid": 324,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A120",
+  "rid": 164,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A121",
+  "rid": 342,
+  "rep": 0,
+  "prior": "risk"
+ },
+ {
+  "did": "A122",
+  "rid": 585,
+  "rep": 0,
+  "prior": "capability"
+ },
+ {
+  "did": "A123",
+  "rid": 144,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A124",
+  "rid": 204,
+  "rep": 0,
+  "prior": "other"
+ },
+ {
+  "did": "A125",
+  "rid": 303,
+  "rep": 0,
+  "prior": "capability"
+ }
+]

@@ -1,0 +1,5193 @@
+[
+{
+"rid": 1,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 2,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 3,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 4,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 5,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 6,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 7,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 8,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 9,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 10,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 11,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 12,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 13,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 14,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 15,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 16,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 17,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 18,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 19,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 20,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 21,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 22,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 23,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 24,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 25,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 26,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 27,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 28,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 29,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 30,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 31,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 32,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 33,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 34,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 35,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 36,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 37,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 38,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 39,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 40,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 41,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 42,
+"patterns": [
+"deep learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 43,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 44,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 45,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 46,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 47,
+"patterns": [
+"ai",
+"foundation model"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 48,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 49,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 50,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 51,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 52,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 53,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 54,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 55,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 56,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 57,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 58,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 59,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 60,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 61,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 62,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 63,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 64,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 65,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 66,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 67,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 68,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 69,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 70,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 71,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 72,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 73,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 74,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 75,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 76,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 77,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 78,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 79,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 80,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 81,
+"patterns": [
+"artificial intelligence",
+"generative ai",
+"ai",
+"ai-"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 82,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 83,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 84,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 85,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 86,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 87,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 88,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 89,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 90,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 91,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 92,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 93,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 94,
+"patterns": [
+"large language model",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 95,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 96,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 97,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 98,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 99,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 100,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 101,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 102,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 103,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 104,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 105,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 106,
+"patterns": [
+"ai",
+"ai-",
+"genai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 107,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 108,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 109,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 110,
+"patterns": [
+"deep learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 111,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 112,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 113,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 114,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 115,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 116,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 117,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 118,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 119,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 120,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 121,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 122,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 123,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 124,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 125,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 126,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 127,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 128,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 129,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 130,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 131,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 132,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 133,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 134,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 135,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 136,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 137,
+"patterns": [
+"machine learning",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 138,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 139,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 140,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 141,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 142,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 143,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 144,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 145,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 146,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 147,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 148,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 149,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 150,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 151,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 152,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 153,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 154,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 155,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 156,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 157,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 158,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 159,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 160,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 161,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 162,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 163,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 164,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 165,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 166,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 167,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 168,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 169,
+"patterns": [
+"generative ai",
+"large language model",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 170,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 171,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 172,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 173,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 174,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 175,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 176,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 177,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 178,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 179,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 180,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 181,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 182,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 183,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 184,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 185,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 186,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 187,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 188,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 189,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 190,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 191,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 192,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 193,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 194,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 195,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 196,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 197,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 198,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 199,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 200,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 201,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 202,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 203,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 204,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 205,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 206,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 207,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 208,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 209,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 210,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 211,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 212,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 213,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 214,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 215,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 216,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 217,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 218,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 219,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 220,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 221,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 222,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 223,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 224,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 225,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 226,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 227,
+"patterns": [
+"generative ai",
+"ai",
+"ai-"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 228,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 229,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 230,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 231,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 232,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 233,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 234,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 235,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 236,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 237,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 238,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 239,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 240,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 241,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 242,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 243,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 244,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 245,
+"patterns": [
+"artificial intelligence",
+"ai",
+"ai-"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 246,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 247,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 248,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 249,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 250,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 251,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 252,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 253,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 254,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 255,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 256,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 257,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 258,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 259,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 260,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 261,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 262,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 263,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 264,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 265,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 266,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 267,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 268,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 269,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 270,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 271,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 272,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 273,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 274,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 275,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 276,
+"patterns": [
+"machine learning",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 277,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 278,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 279,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 280,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 281,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 282,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 283,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 284,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 285,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 286,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 287,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 288,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 289,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 290,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 291,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 292,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 293,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 294,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 295,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 296,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 297,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 298,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 299,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 300,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 301,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 302,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 303,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 304,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 305,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 306,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 307,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 308,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 309,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 310,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 311,
+"patterns": [
+"large language model"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 312,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 313,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 314,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 315,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 316,
+"patterns": [
+"machine learning",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 317,
+"patterns": [
+"machine learning",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 318,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 319,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 320,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 321,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 322,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 323,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 324,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 325,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 326,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 327,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 328,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 329,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 330,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 331,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 332,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 333,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 334,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 335,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 336,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 337,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 338,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 339,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 340,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 341,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 342,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 343,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 344,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 345,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 346,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 347,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 348,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 349,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 350,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 351,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 352,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 353,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 354,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 355,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 356,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 357,
+"patterns": [
+"genai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 358,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 359,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 360,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 361,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 362,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 363,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 364,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 365,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 366,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 367,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 368,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 369,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 370,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 371,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 372,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 373,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 374,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 375,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 376,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 377,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 378,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 379,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 380,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 381,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 382,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 383,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 384,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 385,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 386,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 387,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 388,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 389,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 390,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 391,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 392,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 393,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 394,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 395,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 396,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 397,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 398,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 399,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 400,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 401,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 402,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 403,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 404,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 405,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 406,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 407,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 408,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 409,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 410,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 411,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 412,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 413,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 414,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 415,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 416,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 417,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 418,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 419,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 420,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 421,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 422,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 423,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 424,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 425,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 426,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 427,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 428,
+"patterns": [
+"machine learning",
+"ai",
+"ml"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 429,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 430,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 431,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 432,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 433,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 434,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 435,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 436,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 437,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 438,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 439,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 440,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 441,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 442,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 443,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 444,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 445,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 446,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 447,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 448,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 449,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 450,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 451,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 452,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 453,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 454,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 455,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 456,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 457,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 458,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 459,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 460,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 461,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 462,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 463,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 464,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 465,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 466,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 467,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 468,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 469,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 470,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 471,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 472,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 473,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 474,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 475,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 476,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 477,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 478,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 479,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 480,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 481,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 482,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 483,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 484,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 485,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 486,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 487,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 488,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 489,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 490,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 491,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 492,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 493,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 494,
+"patterns": [
+"ai",
+"ai-",
+"genai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 495,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 496,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 497,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 498,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 499,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 500,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 501,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 502,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 503,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 504,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 505,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 506,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 507,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 508,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 509,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 510,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 511,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 512,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 513,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 514,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 515,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 516,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 517,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 518,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 519,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 520,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 521,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 522,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 523,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 524,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 525,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 526,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 527,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 528,
+"patterns": [
+"machine learning",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 529,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 530,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 531,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 532,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 533,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 534,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 535,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 536,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 537,
+"patterns": [
+"ai",
+"ml"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 538,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 539,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 540,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 541,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 542,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 543,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 544,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 545,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 546,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 547,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 548,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 549,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 550,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 551,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 552,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 553,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 554,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 555,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 556,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 557,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 558,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 559,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 560,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 561,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 562,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 563,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 564,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 565,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 566,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 567,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 568,
+"patterns": [
+"artificial intelligence",
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 569,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 570,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 571,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 572,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 573,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 574,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 575,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 576,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 577,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 578,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 579,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 580,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 581,
+"patterns": [
+"machine learning",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 582,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 583,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 584,
+"patterns": [
+"artificial intelligence",
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 585,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 586,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 587,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 588,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 589,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 590,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 591,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 592,
+"patterns": [
+"ai",
+"ml"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 593,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 594,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 595,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 596,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 597,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 598,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 599,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 600,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 601,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 602,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 603,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 604,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 605,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 606,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 607,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 608,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 609,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 610,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 611,
+"patterns": [
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 612,
+"patterns": [
+"artificial intelligence"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 613,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 614,
+"patterns": [
+"ai",
+"ai-"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 615,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 616,
+"patterns": [
+"machine learning"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 617,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 618,
+"patterns": [
+"artificial intelligence",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 619,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 620,
+"patterns": [
+"artificial intelligence",
+"generative ai",
+"ai"
+],
+"only_short": false,
+"only_ml": false
+},
+{
+"rid": 621,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+},
+{
+"rid": 622,
+"patterns": [
+"ml"
+],
+"only_short": true,
+"only_ml": true
+},
+{
+"rid": 623,
+"patterns": [
+"ai"
+],
+"only_short": true,
+"only_ml": false
+}
+]

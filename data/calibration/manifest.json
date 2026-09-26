@@ -1,0 +1,17 @@
+{
+  "seed": 20260926,
+  "c1_units": 117,
+  "c1_displays": 125,
+  "c1_duplicate_controls": 8,
+  "c1_per_class_requested": {
+    "capability": 30,
+    "risk": 30,
+    "other": 20,
+    "market": 12,
+    "governance": 5
+  },
+  "c1_disputed_requested": 20,
+  "c2_candidates": 74,
+  "corpus": 623,
+  "c2_screen_regex": "(\\d+(?:\\.\\d+)?\\s*%|\\d+(?:\\.\\d+)?\\s*(?:percent|percentage points?|bps|basis points?)|\\b\\d+(?:\\.\\d+)?\\s*(?:x|times|fold)\\b|[$\u20ac\u00a3]\\s?\\d|\\b\\d+(?:\\.\\d+)?\\s*(?:million|billion|thousand|hours?|minutes?|seconds?|days?|weeks?|months?)\\b|\\b\\d{2,}(?:,\\d{3})*(?:\\.\\d+)?\\b)"
+}
